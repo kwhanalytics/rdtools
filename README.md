@@ -1,4 +1,10 @@
-# rdtools
+# Repository Deprecation Notice
+
+Main development of RdTools has moved to another repository located at [https://github.com/NREL/rdtools](https://github.com/NREL/rdtools).
+
+---
+
+# RdTools
 Degradation Tools
 
 Python tools for photovoltaic degradation analysis.
